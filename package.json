@@ -1,0 +1,17 @@
+{
+  "name": "lionstep-tests",
+  "version": "1.0.0",
+  "description": "Sample Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webdriverio": "^4.13.1"
+  },
+  "devDependencies": {
+    "wdio-mocha-framework": "^0.6.2"
+  }
+}
